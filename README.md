@@ -1,1 +1,1 @@
-Test data for the experiments in Sections 7.
+Test data for the experiments in Section 7.
